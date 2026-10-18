@@ -1,0 +1,15 @@
+# Needed for scripts/reproduce_table2.py and notebook 06 (CPU only)
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+matplotlib>=3.7
+nbformat>=5.9
+# Needed only for notebooks 02-05 (GPU, Kaggle)
+torch>=2.1
+torchvision>=0.16
+torchxrayvision>=1.2
+transformers>=4.49
+accelerate>=0.30
+scikit-image>=0.21
+pillow>=10.0

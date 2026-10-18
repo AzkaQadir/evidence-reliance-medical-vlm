@@ -1,0 +1,15 @@
+finding,patients_absent_to_present,patients_present_to_absent,patients_with_flip_and_same_partner,of_which_anchor_absent,of_which_anchor_present
+Atelectasis,3207,2971,3212,2547,665
+Cardiomegaly,794,815,839,744,95
+Consolidation,1648,1547,1725,1550,175
+Edema,868,839,909,794,115
+Effusion,3059,2569,2993,2248,745
+Emphysema,726,720,762,643,119
+Fibrosis,697,704,758,699,59
+Hernia,51,62,61,51,10
+Infiltration,4623,4325,4625,3665,960
+Mass,1423,1477,1588,1256,332
+Nodule,1852,1904,1988,1654,334
+Pleural_Thickening,1275,1222,1319,1181,138
+Pneumonia,771,719,799,763,36
+Pneumothorax,1202,1142,1259,976,283

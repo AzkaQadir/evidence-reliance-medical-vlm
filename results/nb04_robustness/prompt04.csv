@@ -1,0 +1,9 @@
+finding,model,prompt,vs,estimand,estimate,ci_low,ci_high,p_boot,n_patients
+Effusion,Qwen2.5-VL-7B-Instruct,P1,P0,R_dir,0.00013930573011748494,-0.009443698581460921,0.009740296766423854,0.978,400
+Effusion,Qwen2.5-VL-7B-Instruct,P1,P0,R_sign,-0.01,-0.085,0.065,0.85,400
+Effusion,Qwen2.5-VL-7B-Instruct,P2,P0,R_dir,0.010270828583743423,-0.007252078853402053,0.02733664425990719,0.2565,400
+Effusion,Qwen2.5-VL-7B-Instruct,P2,P0,R_sign,0.065,-0.03,0.155,0.21,400
+Effusion,medgemma-4b-it,P1,P0,R_dir,0.021540610252743307,-0.011274802356867822,0.05448741845297425,0.1835,400
+Effusion,medgemma-4b-it,P1,P0,R_sign,0.01,-0.0775,0.1,0.852,400
+Effusion,medgemma-4b-it,P2,P0,R_dir,-0.07034571118894889,-0.1298113036745265,-0.013103074489057367,0.018,400
+Effusion,medgemma-4b-it,P2,P0,R_sign,-0.0025,-0.1375,0.135,0.9915,400

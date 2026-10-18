@@ -1,0 +1,6 @@
+model,finding,prompt,n,sec_per_img
+medgemma-4b-it,Atelectasis,P0,1402,3.788540492384308
+medgemma-4b-it,Pneumothorax,P0,1435,3.8086284906606642
+medgemma-4b-it,Cardiomegaly,P0,1081,3.8091560971615603
+medgemma-4b-it,Effusion,P1,1428,3.814526332526648
+medgemma-4b-it,Effusion,P2,1428,3.789990428449059

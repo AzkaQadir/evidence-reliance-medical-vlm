@@ -1,0 +1,9 @@
+model,comparison,estimand,estimate,ci_low,ci_high,p_boot,n_patients
+Qwen2.5-VL-7B-Instruct,report 'pos' minus no report,R_dir,0.00031112400582060216,-0.02649525159058976,0.02724976243498532,0.985,400
+Qwen2.5-VL-7B-Instruct,report 'pos' minus no report,R_sign,-0.03,-0.125,0.065,0.5735,400
+Qwen2.5-VL-7B-Instruct,report 'neg' minus no report,R_dir,-0.0009646287538998876,-0.007697896855778708,0.005904972529551742,0.792,400
+Qwen2.5-VL-7B-Instruct,report 'neg' minus no report,R_sign,0.025,-0.08,0.12,0.6755,400
+medgemma-4b-it,report 'pos' minus no report,R_dir,-0.1669916370958572,-0.23921265704885128,-0.09740385500255906,0.0,276
+medgemma-4b-it,report 'pos' minus no report,R_sign,0.014492753623188406,-0.14130434782608695,0.16304347826086957,0.8775,276
+medgemma-4b-it,report 'neg' minus no report,R_dir,0.011975924365010802,-0.08122993457362707,0.10896027043487129,0.7895,297
+medgemma-4b-it,report 'neg' minus no report,R_sign,0.016835016835016835,-0.11447811447811448,0.15488215488215487,0.824,297
